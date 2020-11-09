@@ -23,23 +23,23 @@ class Header extends React.Component {
                                 </button>
                                 <div id="app-header-navbar-collapse" className="collapse navbar-collapse m-0 p-0">
                                     <div className="navbar-nav m-0 ml-auto p-0">
-                                        <NavLink className="nav-link d-flex flex-row justify-content-start align-items-center m-0 px-3 py-2" activeClassName="active" to="/home/">
+                                        <NavLink className="nav-link d-flex flex-row justify-content-start align-items-center m-0 px-2 py-2" activeClassName="active" to="/home/">
                                             <BsFillHouseFill size="24px"/>
                                             <span className="h6 m-0 ml-1 p-0">Home</span>
                                         </NavLink>
-                                        <NavLink className="nav-link d-flex flex-row justify-content-start align-items-center m-0 px-3 py-2" activeClassName="active" to="/about-me/">
+                                        <NavLink className="nav-link d-flex flex-row justify-content-start align-items-center m-0 px-2 py-2" activeClassName="active" to="/about-me/">
                                             <BsChatQuoteFill size="24px"/>
                                             <span className="h6 m-0 ml-1 p-0">About Me</span>
                                         </NavLink>
-                                        <NavLink className="nav-link d-flex flex-row justify-content-start align-items-center m-0 px-3 py-2" activeClassName="active" to="/resume/">
+                                        <NavLink className="nav-link d-flex flex-row justify-content-start align-items-center m-0 px-2 py-2" activeClassName="active" to="/resume/">
                                             <BsAwardFill size="24px"/>
                                             <span className="h6 m-0 ml-1 p-0">Resume</span>
                                         </NavLink>
-                                        <NavLink className="nav-link d-flex flex-row justify-content-start align-items-center m-0 px-3 py-2" activeClassName="active" to="/works/">
+                                        <NavLink className="nav-link d-flex flex-row justify-content-start align-items-center m-0 px-2 py-2" activeClassName="active" to="/works/">
                                             <BsTerminalFill size="24px"/>
                                             <span className="h6 m-0 ml-1 p-0">Works</span>
                                         </NavLink>
-                                        <NavLink className="nav-link d-flex flex-row justify-content-start align-items-center m-0 px-3 py-2" activeClassName="active" to="/contact/">
+                                        <NavLink className="nav-link d-flex flex-row justify-content-start align-items-center m-0 px-2 py-2" activeClassName="active" to="/contact/">
                                             <BsFillPeopleFill size="24px"/>
                                             <span className="h6 m-0 ml-1 p-0">Contact</span>
                                         </NavLink>
