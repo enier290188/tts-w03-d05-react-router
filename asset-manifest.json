@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/tts-w03-d05-react-router/static/js/main.79e66ee6.chunk.js",
+    "main.js.map": "/tts-w03-d05-react-router/static/js/main.79e66ee6.chunk.js.map",
+    "runtime-main.js": "/tts-w03-d05-react-router/static/js/runtime-main.81b61667.js",
+    "runtime-main.js.map": "/tts-w03-d05-react-router/static/js/runtime-main.81b61667.js.map",
+    "static/css/2.43b2b750.chunk.css": "/tts-w03-d05-react-router/static/css/2.43b2b750.chunk.css",
+    "static/js/2.1beed3ce.chunk.js": "/tts-w03-d05-react-router/static/js/2.1beed3ce.chunk.js",
+    "static/js/2.1beed3ce.chunk.js.map": "/tts-w03-d05-react-router/static/js/2.1beed3ce.chunk.js.map",
+    "index.html": "/tts-w03-d05-react-router/index.html",
+    "static/css/2.43b2b750.chunk.css.map": "/tts-w03-d05-react-router/static/css/2.43b2b750.chunk.css.map",
+    "static/js/2.1beed3ce.chunk.js.LICENSE.txt": "/tts-w03-d05-react-router/static/js/2.1beed3ce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81b61667.js",
+    "static/css/2.43b2b750.chunk.css",
+    "static/js/2.1beed3ce.chunk.js",
+    "static/js/main.79e66ee6.chunk.js"
+  ]
+}
