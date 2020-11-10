@@ -1,7 +1,7 @@
 import React from "react";
 import {NavLink} from "react-router-dom";
 // import imgLogo from "../../img/logo.svg";
-import {BsFillHouseFill, BsChatQuoteFill, BsAwardFill, BsTerminalFill, BsFillPeopleFill} from "react-icons/bs";
+import {BsFillHouseFill, BsFillPersonLinesFill, BsAwardFill, BsTerminalFill, BsChatDotsFill} from "react-icons/bs";
 import {DiReact} from "react-icons/di"
 
 
@@ -28,7 +28,7 @@ class Header extends React.Component {
                                             <span className="h6 m-0 ml-1 p-0">Home</span>
                                         </NavLink>
                                         <NavLink className="nav-link d-flex flex-row justify-content-start align-items-center m-0 px-2 py-2" activeClassName="active" to="/about-me/">
-                                            <BsChatQuoteFill size="24px"/>
+                                            <BsFillPersonLinesFill size="24px"/>
                                             <span className="h6 m-0 ml-1 p-0">About Me</span>
                                         </NavLink>
                                         <NavLink className="nav-link d-flex flex-row justify-content-start align-items-center m-0 px-2 py-2" activeClassName="active" to="/resume/">
@@ -40,7 +40,7 @@ class Header extends React.Component {
                                             <span className="h6 m-0 ml-1 p-0">Works</span>
                                         </NavLink>
                                         <NavLink className="nav-link d-flex flex-row justify-content-start align-items-center m-0 px-2 py-2" activeClassName="active" to="/contact/">
-                                            <BsFillPeopleFill size="24px"/>
+                                            <BsChatDotsFill size="24px"/>
                                             <span className="h6 m-0 ml-1 p-0">Contact</span>
                                         </NavLink>
                                     </div>
