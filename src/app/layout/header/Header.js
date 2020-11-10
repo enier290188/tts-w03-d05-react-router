@@ -1,7 +1,7 @@
 import React from "react";
 import {NavLink} from "react-router-dom";
 // import imgLogo from "../../img/logo.svg";
-import {BsFillHouseFill, BsFillPersonLinesFill, BsAwardFill, BsTerminalFill, BsChatDotsFill} from "react-icons/bs";
+import {BsFillHouseFill, BsFillPersonLinesFill, BsAwardFill, BsTerminalFill, BsFillEnvelopeFill} from "react-icons/bs";
 import {DiReact} from "react-icons/di"
 
 
@@ -40,7 +40,7 @@ class Header extends React.Component {
                                             <span className="h6 m-0 ml-1 p-0">Works</span>
                                         </NavLink>
                                         <NavLink className="nav-link d-flex flex-row justify-content-start align-items-center m-0 px-2 py-2" activeClassName="active" to="/contact/">
-                                            <BsChatDotsFill size="24px"/>
+                                            <BsFillEnvelopeFill size="24px"/>
                                             <span className="h6 m-0 ml-1 p-0">Contact</span>
                                         </NavLink>
                                     </div>
